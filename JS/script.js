@@ -11,7 +11,7 @@ function changeMinutes() {
 }
 let x = parseInt(prompt("Уменшить или увеличить число на ...?"))
 
-console.log (changeMinutes());   // не пойму, почему вызов фунции дает undefined
+console.log (changeMinutes());   // не пойму, почему вызов фунции дает undefined !
 
 
 
